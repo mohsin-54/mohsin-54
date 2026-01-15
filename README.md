@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying BS Cybersecurity at Mehran University of Engineering & Technology (MUET)<br> I’m currently working on Java <br> I’m currently learning DBS<br> Linux master.<br> Networking Specialist.
+I'm studying BS Cybersecurity at Mehran University of Engineering & Technology (MUET).<br> I’m currently working on Java. <br> I’m currently learning DBS.<br> Linux master.<br> Networking Specialist.
 
 
 ##  Socials:
